@@ -3,7 +3,6 @@
 MySidewalk profiles for the Senior Centers contracted with GNRC  
 2025 Centers:  
 
-Center
 Trive 55+ Ashland City: https://reports.mysidewalk.com/d56badf939  
 FiftyForward Martin Center: https://reports.mysidewalk.com/d7c6c60790  
 Clarksville Montgomery County Ajax Turner Senior Citizens Center: https://reports.mysidewalk.com/9c98ac8d7f  
