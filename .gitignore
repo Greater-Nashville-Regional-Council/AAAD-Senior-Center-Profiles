@@ -79,6 +79,9 @@ target/
 
 #data
 /data
+/Foreign Born Population
+/Veteran Population
+/Logs 
 
 
 # IPython
