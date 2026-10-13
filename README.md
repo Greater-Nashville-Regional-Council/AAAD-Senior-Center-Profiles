@@ -20,7 +20,7 @@ The next thing will be updating the information that MySidewalk doesn’t have. 
  
 
 Foreign Born Population:
-This is on the Demographics page. The foreign born one calls directly to the Census API so if this is performed by other staff at some point you’ll need your own API key to run it. I really just take the percent of the county population that is foreign born from the notebook itself, and then use the output spreadsheets to list the top two or three places this population is born. Make sure to update the citation as well.  
+This is on the Demographics page. This calls to the Census Bureau SQLite database so make sure to update that to the newest vintage. I really just take the percent of the county population that is foreign born from the notebook itself, and then use the output spreadsheets to list the top two or three places this population is born. Make sure to update the citation as well.  
 
 
 Senior Veteran Population:
